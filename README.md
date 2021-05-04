@@ -5,6 +5,12 @@ This repo contains a collection of
 individual Portal 2 maps (also known as 'mtriggers'), primarily intended for use
 in challenge mode (CM).
 
+## Usage
+
+To use these, place the `mtriggers/` directory and the `mtriggers.cfg` file
+within your `portal2/cfg` directory. Then, in your autoexec (or somewhere else),
+simply run `exec mtriggers`.
+
 ## Contributing
 
 All contributions to these triggers are welcome; feel free to open a PR, or
