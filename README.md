@@ -1,15 +1,16 @@
 # Portal 2 mtriggers
 
-This repo contains a collection of
-[SAR](https://github.com/p2sr/SourceAutoRecord/) speedrun categories for
-individual Portal 2 maps (also known as 'mtriggers'), primarily intended for use
-in challenge mode (CM).
+This repo contains a collection of [SAR] speedrun categories for individual
+Portal 2 maps (also known as 'mtriggers'), primarily intended for use in
+challenge mode (CM).
+
+[SAR]: https://github.com/p2sr/SourceAutoRecord
 
 ## Usage
 
-To use these, place the `mtriggers/` directory and the `mtriggers.cfg` file
+To use these, place the entire repository (in a directory named `mtriggers`)
 within your `portal2/cfg` directory. Then, in your autoexec (or somewhere else),
-simply run `exec mtriggers`.
+simply run `exec mtriggers/mtriggers`.
 
 ## Contributing
 
