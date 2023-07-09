@@ -10,7 +10,9 @@ challenge mode (CM).
 
 To use these, place the entire repository (in a directory named `mtriggers`)
 within your `portal2/cfg` directory. Then, in your autoexec (or somewhere else),
-simply run `exec mtriggers/mtriggers`.
+simply run `exec mtriggers/mtriggers`. The functionality can be forced on outside
+of CM by using the command `svar_set force_mtriggers 1`, or can be disabled by
+using the command `svar_set no_mtriggers 1`.
 
 ## Contributing
 
